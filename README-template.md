@@ -22,8 +22,6 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -31,15 +29,20 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - Mobile-first workflow
 
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 - Max-width and Min-height
 - Media-Queries
-- Image Width
+- Responsive Images and width
 
+## Author
+
+
+- PUBLISHED https://wdyitz.github.io/QrCodeLayout-FrontendMentor/
+ 
+- Frontend Mentor - [@WDYitz](https://www.frontendmentor.io/profile/WDYitz)
 
 
 
